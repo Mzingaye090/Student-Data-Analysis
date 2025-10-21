@@ -35,3 +35,12 @@ Set up the project foundation, verify collaboration tools, and prove we can impo
 ---
 
 ## 📂 Project Structure
+
+
+
+5 . view csv file : 
+    - Open Google Colab CSV File Editor text from the github directory.
+    - Copy the link that provided into the txt file.
+    - open a new tab and paste the url 
+    - Download stdent_exam_scores.csv file from the directory.
+    - On Google Colab Use Run-ALl and upload the csv file.
