@@ -30,3 +30,23 @@ uploaded = files.upload()
 # Import required libraries
 import pandas as pd
 import matplotlib.pyplot as plt
+
+# Load dataset
+df = pd.read_csv("student_exam_scores.csv")
+
+# Display first few rows
+df.head()
+
+# Display entire dataset
+df
+
+# Check for empty dataset
+if df.empty:
+    print("The file is empty!")
+else:
+    print("The file has data.")
+
+# Check for missing values
+print(df.isnull().sum())
+
+
