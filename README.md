@@ -36,6 +36,10 @@ Set up the project foundation, verify collaboration tools, and prove we can impo
 
 ## 📂 Project Structure
 
+## 🎯 Sprint 2 Goal
+Set up the project foundation, work with  CSV file of student data to analyzing their progress.
+
+---
 
 5. **view csv file : **
    - Open Google Colab CSV File Editor text from the github directory. 
