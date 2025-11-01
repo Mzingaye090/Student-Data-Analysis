@@ -50,3 +50,6 @@ else:
 print(df.isnull().sum())
 
 
+### 2. Data Upload & Import
+```python
+
