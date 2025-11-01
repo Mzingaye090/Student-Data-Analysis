@@ -52,7 +52,71 @@ The dataset contains the following columns:
 
 - `exam_score` - Current exam score
 
+▶️ 3. Run the Notebook
 
+Click Runtime → Run all
+(or press Ctrl + F9 / Cmd + F9)
+
+Colab will execute every section in order and show tables and charts below each block.
+
+📘 4. Notebook Sections Explained
+1️⃣ Setup
+
+Loads your uploaded CSV file into Pandas and shows the first few rows.
+
+2️⃣ Attendance-Based Performance
+
+Plots Attendance Marks vs Total Marks as a scatter plot.
+
+Displays the correlation between attendance and total score.
+
+3️⃣ Gender-Specific Data
+
+Shows the average Total, Attendance Marks, and Percentage per gender.
+
+Displays a bar chart comparing average scores by gender.
+
+Shows a Gender Count chart.
+
+4️⃣ Histograms
+
+Creates simple histograms for:
+
+Total Marks
+
+Attendance Marks
+
+Percentage (if available)
+
+Helps visualize score distribution and variation.
+
+5️⃣ Lists — Above Average, Below Average, Fail, Didn’t Attend
+
+Automatically generates:
+
+Students above average
+
+Students below average
+
+Students who failed (Grade = F)
+
+Students who didn’t attend any class (Attendance Marks = 0)
+
+6️⃣ Yearly Registration & Gender Count
+
+Shows a bar chart for yearly registration trends (2023–2025)
+
+Prints the number of students per gender registered in the most recent year.
+
+💾 5. Save or Export Results
+
+After running:
+
+To save a chart → right-click on it → Save Image As
+
+To download the whole notebook → File → Download → Download .ipynb
+
+To export as PDF → File → Print → Save as PDF
 
 ## 🔧 Code Commands & Functions
 
