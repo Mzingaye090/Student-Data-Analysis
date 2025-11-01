@@ -1,87 +1,174 @@
-student_id,hours_studied,sleep_hours,attendance_percent,previous_scores,exam_score,attendance_mark,final_score,result_status,grade,exam_room,invigilator_name,exam_date,remarks
-S001,8.0,8.8,72.1,45,30.2,7.21,37.41,Fail,F,Room C,Mr. Lee,2025-03-10,Failed - Must Reappear
-S002,1.3,8.6,60.7,55,25.0,6.07,31.07,Fail,F,Room D,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S003,4.0,8.2,73.7,86,35.8,7.37,43.17,Pass,D,Room A,Mr. Lee,2025-03-10,Needs Improvement
-S004,3.5,4.8,95.1,66,34.0,9.51,43.51,Pass,D,Room C,Mr. Smith,2025-03-10,Needs Improvement
-S005,9.1,6.4,89.8,71,40.3,8.98,49.28,Pass,D,Room C,Mrs. Brown,2025-03-10,Needs Improvement
-S006,8.4,5.1,58.5,75,35.7,5.85,41.55,Pass,D,Room D,Mr. Smith,2025-03-10,Needs Improvement
-S007,10.8,6.0,54.2,88,37.9,5.42,43.32,Pass,D,Room A,Mrs. Brown,2025-03-10,Needs Improvement
-S008,2.0,4.3,75.8,55,18.3,7.58,25.88,Fail,F,Room A,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S009,5.6,5.9,81.6,84,34.7,8.16,42.86,Pass,D,Room C,Ms. Johnson,2025-03-10,Needs Improvement
-S010,1.3,8.9,66.8,70,24.7,6.68,31.38,Fail,F,Room B,Mr. Smith,2025-03-10,Failed - Must Reappear
-S011,3.4,5.3,90.9,81,29.3,9.09,38.39,Fail,F,Room C,Mr. Lee,2025-03-10,Failed - Must Reappear
-S012,6.6,7.9,87.6,85,35.1,8.76,43.86,Pass,D,Room C,Mr. Lee,2025-03-10,Needs Improvement
-S013,1.3,6.3,83.6,71,31.2,8.36,39.56,Fail,F,Room C,Mr. Smith,2025-03-10,Failed - Must Reappear
-S014,3.2,6.1,61.2,68,30.2,6.12,36.32,Fail,F,Room C,Mr. Lee,2025-03-10,Failed - Must Reappear
-S015,8.1,8.8,60.0,90,41.1,6.0,47.1,Pass,D,Room D,Mr. Lee,2025-03-10,Needs Improvement
-S016,7.0,9.0,51.2,41,34.1,5.12,39.22,Fail,F,Room A,Mr. Smith,2025-03-10,Failed - Must Reappear
-S017,3.4,6.8,62.2,45,28.9,6.22,35.12,Fail,F,Room D,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S018,7.5,7.6,73.8,58,36.3,7.38,43.68,Pass,D,Room D,Mr. Smith,2025-03-10,Needs Improvement
-S019,9.9,4.8,92.5,54,35.6,9.25,44.85,Pass,D,Room D,Mrs. Brown,2025-03-10,Needs Improvement
-S020,1.1,5.5,53.6,65,17.1,5.36,22.46,Fail,F,Room C,Mr. Lee,2025-03-10,Failed - Must Reappear
-S021,9.9,8.8,70.7,84,46.0,7.07,53.07,Pass,D,Room B,Mr. Lee,2025-03-10,Needs Improvement
-S022,8.7,6.9,81.5,55,36.1,8.15,44.25,Pass,D,Room A,Mr. Lee,2025-03-10,Needs Improvement
-S023,4.7,6.7,59.7,59,29.6,5.97,35.57,Fail,F,Room B,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S024,2.7,7.7,84.8,82,35.9,8.48,44.38,Pass,D,Room D,Mrs. Brown,2025-03-10,Needs Improvement
-S025,11.5,4.3,74.7,77,39.2,7.47,46.67,Pass,D,Room D,Ms. Johnson,2025-03-10,Needs Improvement
-S026,4.7,6.9,62.2,63,33.8,6.22,40.0,Pass,D,Room B,Ms. Johnson,2025-03-10,Needs Improvement
-S027,2.0,6.5,82.8,70,29.0,8.28,37.28,Fail,F,Room B,Mr. Smith,2025-03-10,Failed - Must Reappear
-S028,2.1,8.3,50.3,75,26.5,5.03,31.53,Fail,F,Room B,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S029,10.3,4.8,87.5,73,37.2,8.75,45.95,Pass,D,Room D,Mr. Smith,2025-03-10,Needs Improvement
-S030,7.6,8.8,88.5,62,36.2,8.85,45.05,Pass,D,Room D,Mr. Smith,2AFailed - Must Reappear
-S082,3.9,5.0,50.3,80,32.4,5.03,37.43,Fail,F,Room D,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S083,7.4,7.2,67.6,95,39.8,6.76,46.56,Pass,D,Room A,Ms. Johnson,2025-03-10,Needs Improvement
-S084,10.9,5.3,87.7,88,48.9,8.77,57.67,Pass,C,Room D,Mr. Lee,2025-03-10,Satisfactory
-S085,5.4,6.4,92.7,71,38.0,9.27,47.27,Pass,D,Room C,Ms. Johnson,2025-03-10,Needs Improvement
-S086,3.4,8.5,97.7,46,26.5,9.77,36.27,Fail,F,Room C,Mr. Lee,2025-03-10,Failed - Must Reappear
-S087,12.0,8.2,71.0,95,51.3,7.1,58.4,Pass,C,Room B,Mr. Smith,2025-03-10,Satisfactory
-S088,6.6,4.5,87.4,40,28.6,8.74,37.34,Fail,F,Room A,Mr. Smith,2025-03-10,Failed - Must Reappear
-S089,2.0,6.1,77.3,76,32.1,7.73,39.83,Fail,F,Room D,Mr. Smith,2025-03-10,Failed - Must Reappear
-S090,1.5,5.4,80.2,58,23.9,8.02,31.92,Fail,F,Room B,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S091,2.2,4.0,61.0,70,27.3,6.1,33.4,Fail,F,Room D,Mr. Smith,2025-03-10,Failed - Must Reappear
-S092,7.9,7.9,61.0,70,34.0,6.1,40.1,Pass,D,Room D,Mr. Lee,2025-03-10,Needs Improvement
-S093,9.7,7.2,71.8,68,37.5,7.18,44.68,Pass,D,Room B,Mr. Smith,2025-03-10,Needs Improvement
-S094,5.6,5.3,51.5,61,29.1,5.15,34.25,Fail,F,Room B,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S095,1.7,7.7,66.8,51,28.1,6.68,34.78,Fail,F,Room B,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S096,5.2,6.8,84.0,43,28.7,8.4,37.1,Fail,F,Room B,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S097,12.0,6.1,70.2,56,36.9,7.02,43.92,Pass,D,Room B,Ms. Johnson,2025-03-10,Needs Improvement
-S098,6.8,4.0,58.3,95,36.0,5.83,41.83,Pass,D,Room D,Mr. Lee,2025-03-10,Needs Improvement
-S099,11.7,4.4,73.4,70,39.9,7.34,47.24,Pass,D,Room B,Mr. Smith,2025-03-10,Needs Improvement
-S100,10.5,8.4,56.4,47,37.1,5.64,42.74,Pass,D,Room A,Mrs. Brown,2025-03-10,Needs Improvement
-S101,1.1,8.5,81.1,92,31.4,8.11,39.51,Fail,F,Room C,Mr. Smith,2025-03-10,Failed - Must Reappear
-S102,8.9,6.7,51.3,44,31.3,5.13,36.43,Fail,F,Room B,Mr. Smith,2025-03-10,Failed - Must Reappear
-S103,8.5,8.2,69.7,65,35.7,6.97,42.67,Pass,D,Room B,Mr. Lee,2025-03-10,Needs Improvement
-S104,6.9,6.9,78.2,71,32.6,7.82,40.42,Pass,D,Room D,Ms. Johnson,2025-03-10,Needs Improvement
-S105,3.9,4.7,51.4,44,24.1,5.14,29.24,Fail,F,Room B,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S106,8.1,4.6,82.1,76,38.2,8.21,46.41,Pass,D,Room B,Mr. Smith,2025-03-10,Needs Improvement
-S107,2.2,5.5,56.8,80,23.7,5.68,29.38,Fail,F,Room B,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S108,5.8,8.5,73.1,83,39.2,7.31,46.51,Pass,D,Room D,Ms. Johnson,2025-03-10,Needs Improvement
-S109,6.0,8.0,52.5,43,23.2,5.25,28.45,Fail,F,Room B,Mrs. Brown,2025-03-10,Failed - Must Reappear
-S110,11.5,8.3,69.0,49,42.2,6.9,49.1,Pass,D,Room C,Ms. Johnson,2025-03-10,Needs Improvement
-S111,10.6,8.5,60.6,49,39.6,6.06,45.66,Pass,D,Room D,Mrs. Brown,2025-03-10,Needs Improvement
-S112,3.9,5.1,66.3,91,34.8,6.63,41.43,Pass,D,Room C,Mr. Lee,2025-03-10,Needs Improvement
-S113,6.5,5.2,88.1,76,34.6,8.81,43.41,Pass,D,Room D,Mrs. Brown,2025-03-10,Needs Improvement
-S114,3.0,4.5,69.0,59,26.4,6.9,33.3,Fail,F,Room B,Mr. Lee,2025-03-10,Failed - Must Reappear
-S115,11.0,7.9,87.6,45,43.1,8.76,51.86,Pass,D,Room C,Mr. Lee,2025-03-10,Needs Improvement
-S116,10.6,8.4,91.6,55,46.4,9.16,55.56,Pass,C,Room D,Mrs. Brown,2025-03-10,Satisfactory
-S117,4.3,6.0,62.6,47,25.2,6.26,31.46,Fail,F,Room A,Mr. Lee,2025-03-10,Failed - Must Reappear
-S118,8.0,7.1,54.1,75,31.3,5.41,36.71,Fail,F,Room B,Mr. Smith,2025-03-10,Failed - Must Reappear
-S119,7.7,4.8,51.0,88,35.8,5.1,40.9,Pass,D,Room D,Mr. Lee,2025-03-10,Needs Improvement
-S120,2.7,8.6,77.0,66,29.8,7.7,37.5,Fail,F,Room A,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S121,9.4,8.3,100.0,78,47.9,10.0,57.9,Pass,C,Room D,Mrs. Brown,2025-03-10,Satisfactory
-S122,6.9,8.9,67.5,78,40.9,6.75,47.65,Pass,D,Room A,Mr. Smith,2025-03-10,Needs Improvement
-S123,9.6,8.1,82.5,90,44.1,8.25,52.35,Pass,D,Room B,Mrs. Brown,2025-03-10,Needs Improvement
-S124,6.8,8.4,89.1,79,39.3,8.91,48.21,Pass,D,Room C,Ms. Johnson,2025-03-10,Needs Improvement
-S125,1.0,4.1,82.6,54,21.2,8.26,29.46,Fail,F,Room A,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S126,4.6,7.7,87.7,89,38.6,8.77,47.37,Pass,D,Room D,Ms. Johnson,2025-03-10,Needs Improvement
-S127,1.2,5.7,97.5,73,26.8,9.75,36.55,Fail,F,Room B,Mr. Lee,2025-03-10,Failed - Must Reappear
-S128,11.2,8.7,60.0,64,42.7,6.0,48.7,Pass,D,Room A,Mr. Lee,2025-03-10,Needs Improvement
-S129,10.7,8.0,51.0,68,36.1,5.1,41.2,Pass,D,Room D,Mrs. Brown,2025-03-10,Needs Improvement
-S130,10.1,8.3,57.6,68,39.2,5.76,44.96,Pass,D,Room D,Mrs. Brown,2025-03-10,Needs Improvement
-S131,4.4,8.1,56.3,59,32.9,5.63,38.53,Fail,F,Room D,Mr. Smith,2025-03-10,Failed - Must Reappear
-S132,1.6,5.3,83.5,95,28.8,8.35,37.15,Fail,F,Room A,Mr. Smith,2025-03-10,Failed - Must Reappear
-S133,10.7,7.9,78.2,77,45.7,7.82,53.52,Pass,D,Room A,Mrs. Brown,2025-03-10,Needs Improvement
-S134,11.4,4.5,60.9,67,40.8,6.09,46.89,Pass,D,Room A,Mr. Lee,2025-03-10,Needs Improvement
-S135,1.9,8.4,85.0,59,30.6,8.5,39.1,Fail,F,Room C,Ms. Johnson,2Two,Room A,Ms. Johnson,2025-03-10,Failed - Must Reappear
-S199,12.0,7.3,50.5,58,42.0,5.05,47.05,Pass,D,Room A,Mrs. Brown,2025-03-10,Needs Improvement
-S200,10.2,6.3,97.4,68,37.8,9.74,47.54,Pass,D,Room C,Mr. Smith,2025-03-10,Needs Improvement
+student_id	hours_studied	sleep_hours	attendance_percent	previous_scores	exam_score	attendance_mark	final_score	result_status	grade	exam_room	invigilator_name	exam_date	remarks			
+S001	8	8.8	72.1	45	30.2	7.21	37.41	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S002	1.3	8.6	60.7	55	25	6.07	31.07	Fail	F	Room D	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S003	4	8.2	73.7	86	35.8	7.37	43.17	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S004	3.5	4.8	95.1	66	34	9.51	43.51	Pass	D	Room C	Mr. Smith	3/10/2025	Needs Improvement			
+S005	9.1	6.4	89.8	71	40.3	8.98	49.28	Pass	D	Room C	Mrs. Brown	3/10/2025	Needs Improvement			
+S006	8.4	5.1	58.5	75	35.7	5.85	41.55	Pass	D	Room D	Mr. Smith	3/10/2025	Needs Improvement			
+S007	10.8	6	54.2	88	37.9	5.42	43.32	Pass	D	Room A	Mrs. Brown	3/10/2025	Needs Improvement			
+S008	2	4.3	75.8	55	18.3	7.58	25.88	Fail	F	Room A	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S009	5.6	5.9	81.6	84	34.7	8.16	42.86	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S010	1.3	8.9	66.8	70	24.7	6.68	31.38	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S011	3.4	5.3	90.9	81	29.3	9.09	38.39	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S012	6.6	7.9	87.6	85	35.1	8.76	43.86	Pass	D	Room C	Mr. Lee	3/10/2025	Needs Improvement			
+S013	1.3	6.3	83.6	71	31.2	8.36	39.56	Fail	F	Room C	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S014	3.2	6.1	61.2	68	30.2	6.12	36.32	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S015	8.1	8.8	60	90	41.1	6	47.1	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S016	7	9	51.2	41	34.1	5.12	39.22	Fail	F	Room A	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S017	3.4	6.8	62.2	45	28.9	6.22	35.12	Fail	F	Room D	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S018	7.5	7.6	73.8	58	36.3	7.38	43.68	Pass	D	Room D	Mr. Smith	3/10/2025	Needs Improvement			
+S019	9.9	4.8	92.5	54	35.6	9.25	44.85	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S020	1.1	5.5	53.6	65	17.1	5.36	22.46	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S021	9.9	8.8	70.7	84	46	7.07	53.07	Pass	D	Room B	Mr. Lee	3/10/2025	Needs Improvement			
+S022	8.7	6.9	81.5	55	36.1	8.15	44.25	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S023	4.7	6.7	59.7	59	29.6	5.97	35.57	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S024	2.7	7.7	84.8	82	35.9	8.48	44.38	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S025	11.5	4.3	74.7	77	39.2	7.47	46.67	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S026	4.7	6.9	62.2	63	33.8	6.22	40	Pass	D	Room B	Ms. Johnson	3/10/2025	Needs Improvement			
+S027	2	6.5	82.8	70	29	8.28	37.28	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S028	2.1	8.3	50.3	75	26.5	5.03	31.53	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S029	10.3	4.8	87.5	73	37.2	8.75	45.95	Pass	D	Room D	Mr. Smith	3/10/2025	Needs Improvement			
+S030	7.6	8.8	88.5	62	36.2	8.85	45.05	Pass	D	Room D	Mr. Smith	2AFailed - Must Reappear				
+S082	3.9	5	50.3	80	32.4	5.03	37.43	Fail	F	Room D	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S083	7.4	7.2	67.6	95	39.8	6.76	46.56	Pass	D	Room A	Ms. Johnson	3/10/2025	Needs Improvement			
+S084	10.9	5.3	87.7	88	48.9	8.77	57.67	Pass	C	Room D	Mr. Lee	3/10/2025	Satisfactory			
+S085	5.4	6.4	92.7	71	38	9.27	47.27	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S086	3.4	8.5	97.7	46	26.5	9.77	36.27	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S087	12	8.2	71	95	51.3	7.1	58.4	Pass	C	Room B	Mr. Smith	3/10/2025	Satisfactory			
+S088	6.6	4.5	87.4	40	28.6	8.74	37.34	Fail	F	Room A	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S089	2	6.1	77.3	76	32.1	7.73	39.83	Fail	F	Room D	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S090	1.5	5.4	80.2	58	23.9	8.02	31.92	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S091	2.2	4	61	70	27.3	6.1	33.4	Fail	F	Room D	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S092	7.9	7.9	61	70	34	6.1	40.1	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S093	9.7	7.2	71.8	68	37.5	7.18	44.68	Pass	D	Room B	Mr. Smith	3/10/2025	Needs Improvement			
+S094	5.6	5.3	51.5	61	29.1	5.15	34.25	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S095	1.7	7.7	66.8	51	28.1	6.68	34.78	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S096	5.2	6.8	84	43	28.7	8.4	37.1	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S097	12	6.1	70.2	56	36.9	7.02	43.92	Pass	D	Room B	Ms. Johnson	3/10/2025	Needs Improvement			
+S098	6.8	4	58.3	95	36	5.83	41.83	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S099	11.7	4.4	73.4	70	39.9	7.34	47.24	Pass	D	Room B	Mr. Smith	3/10/2025	Needs Improvement			
+S100	10.5	8.4	56.4	47	37.1	5.64	42.74	Pass	D	Room A	Mrs. Brown	3/10/2025	Needs Improvement			
+S101	1.1	8.5	81.1	92	31.4	8.11	39.51	Fail	F	Room C	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S102	8.9	6.7	51.3	44	31.3	5.13	36.43	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S103	8.5	8.2	69.7	65	35.7	6.97	42.67	Pass	D	Room B	Mr. Lee	3/10/2025	Needs Improvement			
+S104	6.9	6.9	78.2	71	32.6	7.82	40.42	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S105	3.9	4.7	51.4	44	24.1	5.14	29.24	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S106	8.1	4.6	82.1	76	38.2	8.21	46.41	Pass	D	Room B	Mr. Smith	3/10/2025	Needs Improvement			
+S107	2.2	5.5	56.8	80	23.7	5.68	29.38	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S108	5.8	8.5	73.1	83	39.2	7.31	46.51	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S109	6	8	52.5	43	23.2	5.25	28.45	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S110	11.5	8.3	69	49	42.2	6.9	49.1	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S111	10.6	8.5	60.6	49	39.6	6.06	45.66	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S112	3.9	5.1	66.3	91	34.8	6.63	41.43	Pass	D	Room C	Mr. Lee	3/10/2025	Needs Improvement			
+S113	6.5	5.2	88.1	76	34.6	8.81	43.41	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S114	3	4.5	69	59	26.4	6.9	33.3	Fail	F	Room B	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S115	11	7.9	87.6	45	43.1	8.76	51.86	Pass	D	Room C	Mr. Lee	3/10/2025	Needs Improvement			
+S116	10.6	8.4	91.6	55	46.4	9.16	55.56	Pass	C	Room D	Mrs. Brown	3/10/2025	Satisfactory			
+S117	4.3	6	62.6	47	25.2	6.26	31.46	Fail	F	Room A	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S118	8	7.1	54.1	75	31.3	5.41	36.71	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S119	7.7	4.8	51	88	35.8	5.1	40.9	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S120	2.7	8.6	77	66	29.8	7.7	37.5	Fail	F	Room A	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S121	9.4	8.3	100	78	47.9	10	57.9	Pass	C	Room D	Mrs. Brown	3/10/2025	Satisfactory			
+S122	6.9	8.9	67.5	78	40.9	6.75	47.65	Pass	D	Room A	Mr. Smith	3/10/2025	Needs Improvement			
+S123	9.6	8.1	82.5	90	44.1	8.25	52.35	Pass	D	Room B	Mrs. Brown	3/10/2025	Needs Improvement			
+S124	6.8	8.4	89.1	79	39.3	8.91	48.21	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S125	1	4.1	82.6	54	21.2	8.26	29.46	Fail	F	Room A	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S126	4.6	7.7	87.7	89	38.6	8.77	47.37	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S127	1.2	5.7	97.5	73	26.8	9.75	36.55	Fail	F	Room B	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S128	11.2	8.7	60	64	42.7	6	48.7	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S129	10.7	8	51	68	36.1	5.1	41.2	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S130	10.1	8.3	57.6	68	39.2	5.76	44.96	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S131	4.4	8.1	56.3	59	32.9	5.63	38.53	Fail	F	Room D	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S132	1.6	5.3	83.5	95	28.8	8.35	37.15	Fail	F	Room A	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S133	10.7	7.9	78.2	77	45.7	7.82	53.52	Pass	D	Room A	Mrs. Brown	3/10/2025	Needs Improvement			
+S134	11.4	4.5	60.9	67	40.8	6.09	46.89	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S135	1.9	8.4	85	59	30.6	8.5	39.1	Fail	F	Room C	Ms. Johnson	3/11/2025	Needs Improvement			
+S199	12	7.3	50.5	58	42	5.05	47.05	Pass	D	Room A	Mrs. Brown	3/12/2025	Needs Improvement			
+S200	10.2	6.3	97.4	68	37.8	9.74	47.54	Pass	D	Room C	Mr. Smith	3/10/2025	Needs Improvement			
+student_id	hours_studied	sleep_hours	attendance_percent	previous_scores	exam_score	attendance_mark	final_score	result_status	grade	exam_room	invigilator_name	exam_date	remarks			
+S001	8	8.8	72.1	45	30.2	7.21	37.41	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S002	1.3	8.6	60.7	55	25	6.07	31.07	Fail	F	Room D	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S003	4	8.2	73.7	86	35.8	7.37	43.17	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S004	3.5	4.8	95.1	66	34	9.51	43.51	Pass	D	Room C	Mr. Smith	3/10/2025	Needs Improvement			
+S005	9.1	6.4	89.8	71	40.3	8.98	49.28	Pass	D	Room C	Mrs. Brown	3/10/2025	Needs Improvement			
+S006	8.4	5.1	58.5	75	35.7	5.85	41.55	Pass	D	Room D	Mr. Smith	3/10/2025	Needs Improvement			
+S007	10.8	6	54.2	88	37.9	5.42	43.32	Pass	D	Room A	Mrs. Brown	3/10/2025	Needs Improvement			
+S008	2	4.3	75.8	55	18.3	7.58	25.88	Fail	F	Room A	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S009	5.6	5.9	81.6	84	34.7	8.16	42.86	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S010	1.3	8.9	66.8	70	24.7	6.68	31.38	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S011	3.4	5.3	90.9	81	29.3	9.09	38.39	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S012	6.6	7.9	87.6	85	35.1	8.76	43.86	Pass	D	Room C	Mr. Lee	3/10/2025	Needs Improvement			
+S013	1.3	6.3	83.6	71	31.2	8.36	39.56	Fail	F	Room C	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S014	3.2	6.1	61.2	68	30.2	6.12	36.32	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S015	8.1	8.8	60	90	41.1	6	47.1	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S016	7	9	51.2	41	34.1	5.12	39.22	Fail	F	Room A	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S017	3.4	6.8	62.2	45	28.9	6.22	35.12	Fail	F	Room D	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S018	7.5	7.6	73.8	58	36.3	7.38	43.68	Pass	D	Room D	Mr. Smith	3/10/2025	Needs Improvement			
+S019	9.9	4.8	92.5	54	35.6	9.25	44.85	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S020	1.1	5.5	53.6	65	17.1	5.36	22.46	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S021	9.9	8.8	70.7	84	46	7.07	53.07	Pass	D	Room B	Mr. Lee	3/10/2025	Needs Improvement			
+S022	8.7	6.9	81.5	55	36.1	8.15	44.25	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S023	4.7	6.7	59.7	59	29.6	5.97	35.57	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S024	2.7	7.7	84.8	82	35.9	8.48	44.38	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S025	11.5	4.3	74.7	77	39.2	7.47	46.67	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S026	4.7	6.9	62.2	63	33.8	6.22	40	Pass	D	Room B	Ms. Johnson	3/10/2025	Needs Improvement			
+S027	2	6.5	82.8	70	29	8.28	37.28	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S028	2.1	8.3	50.3	75	26.5	5.03	31.53	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S029	10.3	4.8	87.5	73	37.2	8.75	45.95	Pass	D	Room D	Mr. Smith	3/10/2025	Needs Improvement			
+S030	7.6	8.8	88.5	62	36.2	8.85	45.05	Pass	D	Room D	Mr. Smith	2AFailed - Must Reappear				
+S082	3.9	5	50.3	80	32.4	5.03	37.43	Fail	F	Room D	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S083	7.4	7.2	67.6	95	39.8	6.76	46.56	Pass	D	Room A	Ms. Johnson	3/10/2025	Needs Improvement			
+S084	10.9	5.3	87.7	88	48.9	8.77	57.67	Pass	C	Room D	Mr. Lee	3/10/2025	Satisfactory			
+S085	5.4	6.4	92.7	71	38	9.27	47.27	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S086	3.4	8.5	97.7	46	26.5	9.77	36.27	Fail	F	Room C	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S087	12	8.2	71	95	51.3	7.1	58.4	Pass	C	Room B	Mr. Smith	3/10/2025	Satisfactory			
+S088	6.6	4.5	87.4	40	28.6	8.74	37.34	Fail	F	Room A	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S089	2	6.1	77.3	76	32.1	7.73	39.83	Fail	F	Room D	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S090	1.5	5.4	80.2	58	23.9	8.02	31.92	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S091	2.2	4	61	70	27.3	6.1	33.4	Fail	F	Room D	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S092	7.9	7.9	61	70	34	6.1	40.1	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S093	9.7	7.2	71.8	68	37.5	7.18	44.68	Pass	D	Room B	Mr. Smith	3/10/2025	Needs Improvement			
+S094	5.6	5.3	51.5	61	29.1	5.15	34.25	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S095	1.7	7.7	66.8	51	28.1	6.68	34.78	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S096	5.2	6.8	84	43	28.7	8.4	37.1	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S097	12	6.1	70.2	56	36.9	7.02	43.92	Pass	D	Room B	Ms. Johnson	3/10/2025	Needs Improvement			
+S098	6.8	4	58.3	95	36	5.83	41.83	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S099	11.7	4.4	73.4	70	39.9	7.34	47.24	Pass	D	Room B	Mr. Smith	3/10/2025	Needs Improvement			
+S100	10.5	8.4	56.4	47	37.1	5.64	42.74	Pass	D	Room A	Mrs. Brown	3/10/2025	Needs Improvement			
+S101	1.1	8.5	81.1	92	31.4	8.11	39.51	Fail	F	Room C	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S102	8.9	6.7	51.3	44	31.3	5.13	36.43	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S103	8.5	8.2	69.7	65	35.7	6.97	42.67	Pass	D	Room B	Mr. Lee	3/10/2025	Needs Improvement			
+S104	6.9	6.9	78.2	71	32.6	7.82	40.42	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S105	3.9	4.7	51.4	44	24.1	5.14	29.24	Fail	F	Room B	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S106	8.1	4.6	82.1	76	38.2	8.21	46.41	Pass	D	Room B	Mr. Smith	3/10/2025	Needs Improvement			
+S107	2.2	5.5	56.8	80	23.7	5.68	29.38	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S108	5.8	8.5	73.1	83	39.2	7.31	46.51	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S109	6	8	52.5	43	23.2	5.25	28.45	Fail	F	Room B	Mrs. Brown	3/10/2025	Failed - Must Reappear			
+S110	11.5	8.3	69	49	42.2	6.9	49.1	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S111	10.6	8.5	60.6	49	39.6	6.06	45.66	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S112	3.9	5.1	66.3	91	34.8	6.63	41.43	Pass	D	Room C	Mr. Lee	3/10/2025	Needs Improvement			
+S113	6.5	5.2	88.1	76	34.6	8.81	43.41	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S114	3	4.5	69	59	26.4	6.9	33.3	Fail	F	Room B	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S115	11	7.9	87.6	45	43.1	8.76	51.86	Pass	D	Room C	Mr. Lee	3/10/2025	Needs Improvement			
+S116	10.6	8.4	91.6	55	46.4	9.16	55.56	Pass	C	Room D	Mrs. Brown	3/10/2025	Satisfactory			
+S117	4.3	6	62.6	47	25.2	6.26	31.46	Fail	F	Room A	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S118	8	7.1	54.1	75	31.3	5.41	36.71	Fail	F	Room B	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S119	7.7	4.8	51	88	35.8	5.1	40.9	Pass	D	Room D	Mr. Lee	3/10/2025	Needs Improvement			
+S120	2.7	8.6	77	66	29.8	7.7	37.5	Fail	F	Room A	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S121	9.4	8.3	100	78	47.9	10	57.9	Pass	C	Room D	Mrs. Brown	3/10/2025	Satisfactory			
+S122	6.9	8.9	67.5	78	40.9	6.75	47.65	Pass	D	Room A	Mr. Smith	3/10/2025	Needs Improvement			
+S123	9.6	8.1	82.5	90	44.1	8.25	52.35	Pass	D	Room B	Mrs. Brown	3/10/2025	Needs Improvement			
+S124	6.8	8.4	89.1	79	39.3	8.91	48.21	Pass	D	Room C	Ms. Johnson	3/10/2025	Needs Improvement			
+S125	1	4.1	82.6	54	21.2	8.26	29.46	Fail	F	Room A	Ms. Johnson	3/10/2025	Failed - Must Reappear			
+S126	4.6	7.7	87.7	89	38.6	8.77	47.37	Pass	D	Room D	Ms. Johnson	3/10/2025	Needs Improvement			
+S127	1.2	5.7	97.5	73	26.8	9.75	36.55	Fail	F	Room B	Mr. Lee	3/10/2025	Failed - Must Reappear			
+S128	11.2	8.7	60	64	42.7	6	48.7	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S129	10.7	8	51	68	36.1	5.1	41.2	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S130	10.1	8.3	57.6	68	39.2	5.76	44.96	Pass	D	Room D	Mrs. Brown	3/10/2025	Needs Improvement			
+S131	4.4	8.1	56.3	59	32.9	5.63	38.53	Fail	F	Room D	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S132	1.6	5.3	83.5	95	28.8	8.35	37.15	Fail	F	Room A	Mr. Smith	3/10/2025	Failed - Must Reappear			
+S133	10.7	7.9	78.2	77	45.7	7.82	53.52	Pass	D	Room A	Mrs. Brown	3/10/2025	Needs Improvement			
+S134	11.4	4.5	60.9	67	40.8	6.09	46.89	Pass	D	Room A	Mr. Lee	3/10/2025	Needs Improvement			
+S135	1.9	8.4	85	59	30.6	8.5	39.1	Fail	F	Room C	Ms. Johnson	3/11/2025	Needs Improvement			
+S199	12	7.3	50.5	58	42	5.05	47.05	Pass	D	Room A	Mrs. Brown	3/12/2025	Needs Improvement			
+S200	10.2	6.3	97.4	68	37.8	9.74	47.54	Pass	D	Room C	Mr. Smith	3/10/2025	Needs Improvement			
