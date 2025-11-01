@@ -8,6 +8,20 @@
 
 - `student_exam_scores.csv` - Dataset containing student exam information
 
+# 🧮 Student Exam Scores Dashboard
+
+A beginner-friendly Jupyter Notebook designed for teachers to analyze student exam data easily using Google Colab.  
+It includes attendance-based performance, gender-specific data, histograms, yearly registration trends, and more.
+
+---
+
+## 🧑‍🏫 How to Use the Notebook (Teacher’s Guide)
+
+### 🔗 1. Open the Notebook in Google Colab
+1. Go to [Google Colab](https://colab.research.google.com)
+2. Click **File → Upload Notebook**
+3. Upload the file:  
+
 
 
 ## 🛠️ Technologies Used
@@ -172,3 +186,6 @@ else:
 
 # Check for missing values
 print(df.isnull().sum())
+
+
+
