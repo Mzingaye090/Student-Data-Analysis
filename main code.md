@@ -100,3 +100,8 @@ print(f'Number of students by gender registered in {int(current_year)}:')
 print(gender_year)
 ```
 ---
+
+
+## 7 As a developer, I want to create a script that generates a dashboard displaying the top-performing and most frequently attending students, so I can easily interpret the data.
+
+
