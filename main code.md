@@ -104,4 +104,51 @@ print(gender_year)
 
 ##  7️⃣ As a developer, I want to create a script that generates a dashboard displaying the top-performing and most frequently attending students, so I can easily interpret the data.
 
+```python
 
+
+
+# 7.1 Top-performing students (by Total marks)
+top_performers_cols = ['student_id', 'Total']
+if 'Percentage' in df.columns:
+    df['Percentage'] = pd.to_numeric(df['Percentage'], errors='coerce').fillna(0)
+    top_performers_cols.append('Percentage')
+
+top_performers = (
+    df.sort_values('Total', ascending=False)
+      .head(TOP_N)[top_performers_cols]
+)
+
+print(f"\n🏆 Top {TOP_N} Performing Students (by Total marks):")
+print(top_performers)
+
+plt.figure()
+plt.bar(top_performers['student_id'], top_performers['Total'])
+plt.title(f'Top {TOP_N} Performing Students (by Total Marks)')
+plt.xlabel('Student ID')
+plt.ylabel('Total Marks')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+# 7.2 Most frequently attending students (by Attendance Marks)
+top_attendance = (
+    df.sort_values('Attendance Marks', ascending=False)
+      .head(TOP_N)[['student_id', 'Attendance Marks']]
+)
+
+print(f"\n📚 Top {TOP_N} Most Frequently Attending Students:")
+print(top_attendance)
+
+plt.figure()
+plt.bar(top_attendance['student_id'], top_attendance['Attendance Marks'])
+plt.title(f'Top {TOP_N} Most Frequently Attending Students')
+plt.xlabel('Student ID')
+plt.ylabel('Attendance Marks')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
+
+```
+---
