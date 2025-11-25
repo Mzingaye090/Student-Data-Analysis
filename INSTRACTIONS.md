@@ -18,7 +18,7 @@ It includes attendance-based performance, gender-specific data, histograms, year
 ## 🧑‍🏫 How to Use the Notebook (Teacher’s Guide)
 
 ### 🔗 1. Open the Notebook in Google Colab
-1. Go to [Google Colab](https://drive.google.com/file/d/1F_XIel4VFFmnX0Wbvau0cyREbjZpa7q2/view?usp=sharing)
+1. Go to [Google Colab](https://colab.research.google.com/drive/11WBShGRS2aa5CoRRDf8mNxH6_tMmGEl7?usp=sharing)
 2. Click **File → Upload Notebook**
 3. Upload the file:  CSV file 
 
